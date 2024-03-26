@@ -1,13 +1,13 @@
-FR-101
-FR-102
-FR-103
-FR-104
-FR-105
-FR-106
-FR-107
-FR-108
-FR-109
-FR-110
+FR-101 ---> unit border to pic-126 end of coridor above you
+FR-102 ---> top of 2v-104 to pic-103 under platform
+FR-103 ---> 2H-101 8 passes
+FR-104 ---> top of 2v-103 is pumped through 2p-102 then passes through FR and then goes to the 2v-102
+FR-105 ---> superheat steam to the 2v-102 from 2H-101 to 2v-102
+FR-106 ---> kerosene midreflux from 2E-108 to 2v-102
+FR-107 ---> superheat steam from 2H-101 to 2V-107
+FR-108 ---> L.D from 2P-107 to 2E-104
+FR-109 ---> B.N from 2E-110 to unit border
+FR-110 ---> kerosene from 2E-111 to unit border
 FR-111
 FR-112
 FR-113
