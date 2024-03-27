@@ -9,8 +9,9 @@ FR-108 ---> L.D from 2P-107 to 2E-104
 FR-109 ---> B.N from 2E-110 to unit border
 FR-110 ---> kerosene from 2E-111 to unit border
 FR-111 ---> Doesn't Exist
-FR-112 ---> 
-FR-113 ---> 
+FR-112 ---> NC gas (check it)
+FR-112 ---> Pump arounf from 2E-138 to 2V-102
+FR-113 ---> Gas of 2H-102
 FR-114 ---> Doesn't Exist
 FR-115 ---> Doesn't Exist
 FR-116 ---> Doesn't Exist
