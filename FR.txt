@@ -27,9 +27,10 @@ FR-125 ---> L.D from 2E-112 to 2PIC-111
 FR-126 ---> flare steam 60#
 FR-127
 FR-128
-FR-129
-FR-130
-FR-131
+FR-129A ---> steam 60# (check the difference)
+FR-129B ---> steam 60# (check the difference)
+FR-130 ---> steam 300# east of the unit next to the column
+FR-131 ---> steam 650# east of the unit next to the column
 FR-132
 FR-133
 FR-134
@@ -85,8 +86,8 @@ FR-183
 FR-184
 FR-185
 FR-186
-FR-187
-FR-188
+FR-187 ---> southern distillation unit slops, from unit border to 2FRC-182
+FR-188 ---> 
 FR-189
 FR-190
 FR-191
