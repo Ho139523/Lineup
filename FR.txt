@@ -9,9 +9,9 @@ FR-108 ---> L.D from 2P-107 to 2E-104
 FR-109 ---> B.N from 2E-110 to unit border
 FR-110 ---> kerosene from 2E-111 to unit border
 FR-111 ---> Doesn't Exist
-FR-112 ---> NC gas (check it)
-FR-112 ---> Pump arounf from 2E-138 to 2V-102
-FR-113 ---> Gas of 2H-102
+FR-112 ---> 2H-101 gas from 2V-121 to 2TRC-101
+FR-112 ---> Pump around from 2E-138 to 2V-102
+FR-113 ---> Gas of 2H-102 coming from 2V-121 to 2TRC-104 above you
 FR-114 ---> Doesn't Exist
 FR-115 ---> Doesn't Exist
 FR-116 ---> Doesn't Exist
@@ -22,9 +22,9 @@ FR-120 ---> LPG from compressor to 2E-602
 FR-121 ---> SRG from 2P-119 to 2LC-110 and then inlet of 2E-114
 FR-122 ---> kerosene reflux, 2H-102 passes coming from 2PDIC-112
 FR-123 ---> Doesn't Exist
-FR-124 ---> 
-FR-125 ---> 
-FR-126 ---> 
+FR-124 ---> cooling water south of the 2H-101 coming out of the earth
+FR-125 ---> L.D from 2E-112 to 2PIC-111
+FR-126 ---> flare steam 60#
 FR-127
 FR-128
 FR-129
