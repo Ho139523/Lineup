@@ -1,101 +1,101 @@
-FR-101: (unit border to pic-126 end of coridor above you
-FR-102: (top of 2v-104 to pic-103 under platform
-FR-103: (2H-101 8 passes
-FR-104: (top of 2v-103 is pumped through 2p-102 then passes through FR and then goes to the 2v-102
-FR-105: (superheat steam to the 2v-102 from 2H-101 to 2v-102
-FR-106: (kerosene midreflux from 2E-108 to 2v-102
-FR-107: (superheat steam from 2H-101 to 2V-107
-FR-108: (L.D from 2P-107 to 2E-104
-FR-109: (B.N from 2E-110 to unit border
-FR-110: (kerosene from 2E-111 to unit border
-FR-111: (Doesn't Exist
-FR-112: (2H-101 gas from 2V-121 to 2TRC-101
-FR-112: (Pump around from 2E-138 to 2V-102
-FR-113: (Gas of 2H-102 coming from 2V-121 to 2TRC-104 above you
-FR-114: (Doesn't Exist
-FR-115: (Doesn't Exist
-FR-116: (Doesn't Exist
-FR-117: (Doesn't Exist
-FR-118: (Doesn't Exist
-FR-119: (Doesn't Exist
-FR-120: (LPG from compressor to 2E-602
-FR-121: (SRG from 2P-119 to 2LC-110 and then inlet of 2E-114
-FR-122: (kerosene reflux, 2H-102 passes coming from 2PDIC-112
-FR-123: (Doesn't Exist
-FR-124: (cooling water south of the 2H-101 coming out of the earth
-FR-125: (L.D from 2E-112 to 2PIC-111
-FR-126: (flare steam 60#
-FR-127
-FR-128
-FR-129A: (steam 60# (check the difference)
-FR-129B: (steam 60# (check the difference)
-FR-130: (steam 300# east of the unit next to the column
-FR-131: (steam 650# east of the unit next to the column
-FR-132
-FR-133
-FR-134
-FR-135
-FR-136
-FR-137
-FR-138
-FR-139
-FR-140
-FR-141
-FR-142
-FR-143
-FR-144
-FR-145
-FR-146
-FR-147
-FR-148
-FR-149
-FR-150
-FR-151
-FR-152
-FR-153
-FR-154
-FR-155
-FR-156
-FR-157
-FR-158
-FR-159
-FR-160
-FR-161
-FR-162
-FR-163
-FR-164
-FR-165
-FR-166
-FR-167
-FR-168
-FR-169
-FR-170
-FR-171
-FR-172
-FR-173
-FR-174
-FR-175
-FR-176
-FR-177
-FR-178
-FR-179
-FR-180
-FR-181
-FR-182
-FR-183
-FR-184
-FR-185
-FR-186
-FR-187: (southern distillation unit slops, from unit border to 2FRC-182
-FR-188: (
-FR-189
-FR-190
-FR-191
-FR-192
-FR-193
-FR-194
-FR-195
-FR-196
-FR-197
-FR-198
-FR-199
+FR-101: (unit border to pic-126 end of coridor above you),
+FR-102: (top of 2v-104 to pic-103 under platform),
+FR-103: (2H-101 8 passes),
+FR-104: (top of 2v-103 is pumped through 2p-102 then passes through FR and then goes to the 2v-102),
+FR-105: (superheat steam to the 2v-102 from 2H-101 to 2v-102),
+FR-106: (kerosene midreflux from 2E-108 to 2v-102),
+FR-107: (superheat steam from 2H-101 to 2V-107),
+FR-108: (L.D from 2P-107 to 2E-104),
+FR-109: (B.N from 2E-110 to unit border),
+FR-110: (kerosene from 2E-111 to unit border),
+FR-111: (Doesn't Exist),
+FR-112: (2H-101 gas from 2V-121 to 2TRC-101),
+FR-112: (Pump around from 2E-138 to 2V-102),
+FR-113: (Gas of 2H-102 coming from 2V-121 to 2TRC-104 above you),
+FR-114: (Doesn't Exist),
+FR-115: (Doesn't Exist),
+FR-116: (Doesn't Exist),
+FR-117: (Doesn't Exist),
+FR-118: (Doesn't Exist),
+FR-119: (Doesn't Exist),
+FR-120: (LPG from compressor to 2E-602),
+FR-121: (SRG from 2P-119 to 2LC-110 and then inlet of 2E-114),
+FR-122: (kerosene reflux, 2H-102 passes coming from 2PDIC-112),
+FR-123: (Doesn't Exist),
+FR-124: (cooling water south of the 2H-101 coming out of the earth),
+FR-125: (L.D from 2E-112 to 2PIC-111),
+FR-126: (flare steam 60#),
+FR-127),
+FR-128),
+FR-129A: (steam 60# (check the difference)),
+FR-129B: (steam 60# (check the difference)),
+FR-130: (steam 300# east of the unit next to the column),
+FR-131: (steam 650# east of the unit next to the column),
+FR-132),
+FR-133),
+FR-134),
+FR-135),
+FR-136),
+FR-137),
+FR-138),
+FR-139),
+FR-140),
+FR-141),
+FR-142),
+FR-143),
+FR-144),
+FR-145),
+FR-146),
+FR-147),
+FR-148),
+FR-149),
+FR-150),
+FR-151),
+FR-152),
+FR-153),
+FR-154),
+FR-155),
+FR-156),
+FR-157),
+FR-158),
+FR-159),
+FR-160),
+FR-161),
+FR-162),
+FR-163),
+FR-164),
+FR-165),
+FR-166),
+FR-167),
+FR-168),
+FR-169),
+FR-170),
+FR-171),
+FR-172),
+FR-173),
+FR-174),
+FR-175),
+FR-176),
+FR-177),
+FR-178),
+FR-179),
+FR-180),
+FR-181),
+FR-182),
+FR-183),
+FR-184),
+FR-185),
+FR-186),
+FR-187: (southern distillation unit slops, from unit border to 2FRC-182),
+FR-188: (),
+FR-189),
+FR-190),
+FR-191),
+FR-192),
+FR-193),
+FR-194),
+FR-195),
+FR-196),
+FR-197),
+FR-198),
+FR-199),
